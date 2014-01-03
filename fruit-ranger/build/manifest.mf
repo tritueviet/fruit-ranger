@@ -1,0 +1,7 @@
+MIDlet-1: FruitRanger,/icon.png,FruitMania
+MIDlet-Permissions: javax.microedition.io.Connector.https, javax.microedition.io.Connector.http, javax.microedition.io.Connector.socket
+MIDlet-Vendor: Vu Van Tuong
+MIDlet-Name: FruitRanger
+MIDlet-Version: 1.5
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

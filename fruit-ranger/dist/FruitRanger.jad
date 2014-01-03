@@ -1,0 +1,9 @@
+MIDlet-1: FruitRanger,/icon.png,FruitMania
+MIDlet-Jar-Size: 869570
+MIDlet-Jar-URL: FruitRanger.jar
+MIDlet-Name: FruitRanger
+MIDlet-Permissions: javax.microedition.io.Connector.https, javax.microedition.io.Connector.http, javax.microedition.io.Connector.socket
+MIDlet-Vendor: Vu Van Tuong
+MIDlet-Version: 1.5
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
